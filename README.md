@@ -14,6 +14,4 @@ The page will reload if you make edits.\
 
 Demo of the Measures
 
-```md
-    ![alt text](assets/images/measures.png)
-    ```
+![Model](https://github.com/Alok4code/manufac-assignment/blob/main/src/assets/measures.png)
